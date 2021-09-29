@@ -1,0 +1,2 @@
+Copy the dll file files from bin to the program files location and run using the same Platform
+For now the dll are loaded up for x64
