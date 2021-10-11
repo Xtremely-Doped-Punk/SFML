@@ -1,5 +1,6 @@
 # Space Wars - Project Description
-`To Run the Game Release File, pls download the Folder as it is and run the .exe file`
+
+`To Run the Game, Download the Complete Release Folder as it is and run the .exe file`
 ---
 
 - Implementations of basic movements based upon Physics Motions. (Circular, linear, Concentric, etc motions)
