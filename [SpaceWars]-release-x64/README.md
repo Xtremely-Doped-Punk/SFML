@@ -1,6 +1,6 @@
 # Space Wars - Project Description
----
 `To Run the Game Release File, pls download the Folder as it is and run the .exe file`
+---
 
 - Implementations of basic movements based upon Physics Motions. (Circular, linear, Concentric, etc motions)
 - Players movements basic on User input. (WASD movement + aim towards mouse position)
